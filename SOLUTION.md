@@ -4,6 +4,10 @@ Below is a summary of the changes, approaches, and trade-offs.
 
 ---
 
+## Video Demo
+
+[![KOINOS DEMO](https://img.youtube.com/vi/q80TxfebInM/0.jpg)](https://www.youtube.com/watch?v=q80TxfebInM)
+
 ## Backend (Express API)
 
 ### Improvements
